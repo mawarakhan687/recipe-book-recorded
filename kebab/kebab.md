@@ -1,10 +1,10 @@
-## Kebab Recipe
+# Kebab Recipe
 
 **Yields:** 4 servings
 **Prep time:** 20 minutes
 **Cook time:** 10-15 minutes
 
-### Ingredients
+## Ingredients
 
 * 1 pound ground lamb or beef
 * 1/2 cup finely chopped onion
