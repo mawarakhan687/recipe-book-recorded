@@ -1,5 +1,5 @@
 # Vegetarian lasagna recipe
-
+Recipe
 
 ## Ingredients
 
